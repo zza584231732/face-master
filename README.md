@@ -1,1 +1,1 @@
-# face-master
+# insightface_for_face_recognition
